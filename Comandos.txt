@@ -8,14 +8,14 @@ git pull: Extraer y descargar contenido desde un repositorio remoto y actualizar
 
 git checkout: Nos ayuda a desplazarte entre las ramas creadas por git branch
 
-git log:
+git log: Nos ayuda para explorar el historial del repositorio
 
-git branch:
+git branch: Nos ayuda crear o enumerar y eliminar ramas así como cambiar su nombre
 
-git add:
+git add: Añade un cambio del directorio de trabajo en el entorno de ensayo
 
-git commit:
+git commit: Captura una instantánea de los cambios preparados en ese momento del proyecto y le podemos agregar una descripción 
 
-git push:
+git push: Cargar contenido del repositorio local a un repositorio remoto
 
-git merge:
+git merge: Se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa.
