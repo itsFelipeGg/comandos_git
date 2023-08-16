@@ -6,16 +6,16 @@ git clone: Se implementa principalmente para apuntar a un repositorio existente 
 
 git pull: Extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido.
 
-git checkout: Nos ayuda a desplazarte entre las ramas creadas por git branch
+git checkout: Nos ayuda a desplazarte entre las ramas creadas por git branch.
 
-git log: Nos ayuda para explorar el historial del repositorio
+git log: Nos ayuda para explorar el historial del repositorio.
 
-git branch: Nos ayuda crear o enumerar y eliminar ramas así como cambiar su nombre
+git branch: Nos ayuda crear o enumerar y eliminar ramas así como cambiar su nombre.
 
-git add: Añade un cambio del directorio de trabajo en el entorno de ensayo
+git add: Añade un cambio del directorio de trabajo en el entorno de ensayo.
 
-git commit: Captura una instantánea de los cambios preparados en ese momento del proyecto y le podemos agregar una descripción 
+git commit: Captura una instantánea de los cambios preparados en ese momento del proyecto y le podemos agregar una descripción. 
 
-git push: Cargar contenido del repositorio local a un repositorio remoto
+git push: Cargar contenido del repositorio local a un repositorio remoto.
 
 git merge: Se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa.
